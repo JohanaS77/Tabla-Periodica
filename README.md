@@ -1,10 +1,5 @@
 # <img width="1831" height="134" alt="Captura de pantalla 2025-08-25 105746" src="https://github.com/user-attachments/assets/19d89aee-03ee-4104-a3b8-3f4ea35a815a" />
 
-<div align="center">
-  <img src="ruta-a-tu-imagen/tabla-periodica-titulo.png" alt="Tabla Periódica Interactiva" width="100%" />
-</div>
-
-<a name="indice"></a>
 ## <img width="159" height="92" alt="Captura de pantalla 2025-08-25 110450" src="https://github.com/user-attachments/assets/a1adf839-9802-48ea-b56f-7cd19f47d3cf" />
 
 1. [Descripción del trabajo](#descripcion-del-trabajo)  
