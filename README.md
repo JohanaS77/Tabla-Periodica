@@ -124,9 +124,12 @@ Se aplica un efecto visual elegante cuando el usuario pasa el cursor sobre los e
 <a name="conclusiones"></a>
 ## <img width="263" height="86" alt="Captura de pantalla 2025-08-25 110527" src="https://github.com/user-attachments/assets/01be363c-3b7e-406e-9245-ecc7cdd630ff" />
 
-- Se logró aplicar los conocimientos de **HTML y CSS** en un proyecto práctico.  
-- El control de versiones con **Git y GitHub** facilita el trabajo organizado y en equipo.  
-- El proyecto puede crecer y convertirse en una herramienta educativa digital.  
+Este reto permitió aplicar de manera práctica los conocimientos de HTML y CSS en la construcción de una tabla compleja como la tabla periódica, gracias a la estructura semántica con `<table>`, `<tr>`, `<th>` y `<td>`, fue posible organizar los elementos químicos y espacios vacíos de forma ordenada, representando fielmente la distribución real de la tabla periódica. El trabajo con estilos CSS para diferenciar categorías de elementos y aplicar efectos de interactividad reforzó la importancia de combinar estructura semántica y diseño visual en un mismo proyecto.
+
+Durante el desarrollo del proyecto, el uso de Git y GitHub fue fundamental para mantener un control de versiones claro y un flujo de trabajo organizado, estas herramientas facilitaron el guardado de avances incrementales, la posibilidad de revertir cambios en caso de errores, y mantener un historial completo del desarrollo. En un entorno académico y de colaboración, este tipo de control de versiones resulta clave para simular las mejores prácticas de la industria del software y acostumbrarse a trabajar de manera profesional desde la formación universitaria.
+
+El proyecto no solo cumplió con los objetivos planteados, sino que también establece una base sólida para futuras mejoras y funcionalidades. La tabla periódica digital desarrollada puede evolucionar incorporando más estilos, funcionalidades interactivas o incluso información adicional de cada elemento, convirtiéndose en una herramienta educativa digital, de esta manera, lo que comenzó como un ejercicio académico puede llegar a ser un recurso útil para estudiantes y docentes de ciencias, demostrando el potencial de integrar programación y educación
+
 
 [⬆️ Volver al índice](#indice)
 
