@@ -1,6 +1,11 @@
 # <img width="1831" height="134" alt="Captura de pantalla 2025-08-25 105746" src="https://github.com/user-attachments/assets/19d89aee-03ee-4104-a3b8-3f4ea35a815a" />
 
-## <img width="159" height="92" alt="Captura de pantalla 2025-08-25 110450" src="https://github.com/user-attachments/assets/a1adf839-9802-48ea-b56f-7cd19f47d3cf" />
+<div align="center">
+  <img src="ruta-a-tu-imagen/tabla-periodica-titulo.png" alt="Tabla Periódica Interactiva" width="100%" />
+</div>
+
+## Índice
+<img width="159" height="92" alt="Captura de pantalla 2025-08-25 110450" src="https://github.com/user-attachments/assets/a1adf839-9802-48ea-b56f-7cd19f47d3cf" />
 
 1. [Descripción del trabajo](#descripcion-del-trabajo)  
 2. [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
@@ -19,7 +24,7 @@ Este proyecto consiste en la construcción de una **versión digital de la Tabla
 
 La Tabla Periódica es el ejemplo perfecto de datos tabulares, y este reto demuestra cómo **HTML + CSS** pueden organizar información compleja de manera clara, elegante y dinámica.  
 
-[⬆️ Volver al índice](#indice)
+[⬆️ Volver al índice](#índice)
 
 ---
 
@@ -31,7 +36,7 @@ La Tabla Periódica es el ejemplo perfecto de datos tabulares, y este reto demue
 - Aplicar **estilos dinámicos** basados en categorías de elementos químicos.  
 - Añadir **interactividad visual** utilizando pseudo-clases de CSS (`:hover`).  
 
-[⬆️ Volver al índice](#indice)
+[⬆️ Volver al índice](#índice)
 
 ---
 
@@ -42,7 +47,7 @@ La Tabla Periódica es el ejemplo perfecto de datos tabulares, y este reto demue
 - **CSS3** → estilos, categorías por colores, y efectos dinámicos.  
 - **Git & GitHub** → control de versiones y despliegue del proyecto.  
 
-[⬆️ Volver al índice](#indice)
+[⬆️ Volver al índice](#índice)
 
 ---
 
@@ -100,7 +105,7 @@ Se aplica un efecto visual elegante cuando el usuario pasa el cursor sobre los e
 }
 ```
 
-[⬆️ Volver al índice](#indice)
+[⬆️ Volver al índice](#índice)
 
 ---
 
@@ -143,4 +148,3 @@ Este proyecto fue desarrollado por Johana Jazmín Saavedra, estudiante de cuarto
 </div>
 
 [⬆️ Volver al índice](#indice)
-
