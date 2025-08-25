@@ -1,0 +1,151 @@
+/* Tabla base */
+.table {
+  border-collapse: collapse;
+  width: 80%;              /* Que la tabla se ajuste al contenido */
+  margin: 40px auto;        /* Centrada en la pantalla */
+  table-layout: fixed;      /* 18 columnas con ancho uniforme */
+  background: linear-gradient(135deg, #f9f9f9, #e8f0ff);
+  border-radius: 10px;      /* Bordes redondeados */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* Sombra elegante */
+  padding: 15px;
+}
+
+/* Todas las celdas ocupan ~1/18 del ancho */
+.table td {
+  width: 3.55%;
+  height: 10px;       /* Ajusta la altura de cada celda */
+  padding: 10px;
+  vertical-align: top;
+  text-align: center;
+}
+
+/* Celdas con elemento */
+.element {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+  font-family: system-ui, Arial, sans-serif;
+}
+
+/* Celdas vacías (solo para ver la grilla, puedes quitar el borde si prefieres) */
+.empty {
+  border: 1px dashed #eee;
+}
+
+/* Semántica interna del elemento */
+.number {
+  font-size: 0.7rem;
+  opacity: 0.8;
+  text-align: right;
+}
+.symbol {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.name {
+  font-size: 0.75rem;
+  opacity: 0.9;
+}
+
+/* (Placeholders de categorías: luego daremos color de fondo a cada una) */
+.alcalino {}
+.alcalinoterreo {}
+.no-metal {}
+.metaloide {}
+.halogeno {}
+.gas-noble {}
+.metal-post {} /* metal postransición */
+
+/* Colores para cada categoría */
+.alcalino {
+  background-color: #ff9999; /* rojo claro */
+  border: 2px solid #f73d3d; /* rojo */
+}
+
+.alcalinoterreo {
+  background-color: #e69f6d; /* naranja claro */
+  border: 2px solid #af6432; /* turquesa */
+}
+
+.metal-post {
+  background-color: #ffd699; /* amarillo claro */
+  border: 2px solid #ec610b; /* verde */
+}
+
+.metaloide {
+  background-color: #99ffcc; /* verde agua */
+  border: 2px solid #228b22; /* verde */
+}
+
+.no-metal {
+  background-color: #99ccff; /* azul claro */
+  border: 2px solid #1e90ff; /* azul */
+}
+
+.halogeno {
+  background-color: #c299ff; /* morado claro */
+  border: 2px solid #9400d3; /* naranja */
+}
+
+.gas-noble {
+  background-color: #ffb3e6; /* rosado */
+  border: 2px solid #ed439b; /* violeta */
+}
+
+.metal-trans {
+  background-color: #ffe680; /* amarillo suave */
+  border: 2px solid #dea804; /* verde */
+}
+
+.actinido { 
+    background-color: #b1e34e; /* actínidos */
+    border: 2px solid #0ca30c; /* rosado fuerte */
+} 
+
+.lantanoide {
+  background-color: #f98fe05f; /* amarillo dorado */
+  border: 2px solid #ee1fc5; /* marrón */
+}
+
+
+/* Opcional: un toque sutil al borde de cada celda con elemento */
+.element {
+  border-radius: 6px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.element:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 12px rgba(0,0,0,0.4);
+  z-index: 2;
+  position: relative;
+}
+
+td.empty {
+  border: none;   /* elimina bordes */
+  background: transparent; /* sin color */
+}
+
+/* Estilo del título */
+.titulo-tabla {
+  text-align: center;
+  font-size: 2.2em;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #222;
+  font-family: Arial, sans-serif;
+}
+
+/* Fondo y bordes para la tabla */
+.table {
+  margin: 0 auto; /* Centrar la tabla */
+  background:linear-gradient(135deg, #f5baba, #a7bde6); /* Fondo suave */
+  border-radius: 10px; /* Bordes redondeados */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* Sombra elegante */
+  padding: 15px;
+}
+
+
+
+
