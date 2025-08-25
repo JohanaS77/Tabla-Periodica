@@ -4,8 +4,7 @@
   <img src="ruta-a-tu-imagen/tabla-periodica-titulo.png" alt="Tabla Periódica Interactiva" width="100%" />
 </div>
 
-## Índice
-<img width="159" height="92" alt="Captura de pantalla 2025-08-25 110450" src="https://github.com/user-attachments/assets/a1adf839-9802-48ea-b56f-7cd19f47d3cf" />
+## <img width="159" height="92" alt="Captura de pantalla 2025-08-25 110450" src="https://github.com/user-attachments/assets/a1adf839-9802-48ea-b56f-7cd19f47d3cf" />
 
 1. [Descripción del trabajo](#descripcion-del-trabajo)  
 2. [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
