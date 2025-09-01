@@ -110,6 +110,12 @@ Se aplica un efecto visual elegante cuando el usuario pasa el cursor sobre los e
 
 <img width="1919" height="1021" alt="Captura de pantalla 2025-08-25 115130" src="https://github.com/user-attachments/assets/d28882dc-66ed-41f2-8d63-ae4ba8819839" />
 
+
+[⬆️ Volver al índice](#indice)
+
+
+---
+
 <a name="recomendaciones-contenido"></a>
 ## <img width="302" height="92" alt="Captura de pantalla 2025-08-25 110520" src="https://github.com/user-attachments/assets/e94df966-44ab-4e6a-89bc-b6732c8665b2" />
 
