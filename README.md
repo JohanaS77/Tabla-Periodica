@@ -7,9 +7,10 @@
 2. [Objetivos de Aprendizaje](#objetivos-de-aprendizaje)
 3. [Tecnologías usadas](#tecnologias-usadas)  
 4. [Requisitos Técnicos](#requisitos-tecnicos)
-5. [Recomendaciones](#recomendaciones)  
-6. [Conclusiones](#conclusiones)  
-7. [Desarrolladora](#desarrolladora)  
+5. [Resultado Final](#resultado-final)
+6. [Recomendaciones](#recomendaciones)  
+7. [Conclusiones](#conclusiones)  
+8. [Desarrolladora](#desarrolladora)  
 
 ---
 
@@ -104,8 +105,7 @@ Se aplica un efecto visual elegante cuando el usuario pasa el cursor sobre los e
 [⬆️ Volver al índice](#indice)
 
 ---
-
-<a name="recomendaciones"></a>
+<a name="resultado-final"></a>
 ## <img width="271" height="94" alt="Captura de pantalla 2025-08-25 115251" src="https://github.com/user-attachments/assets/774bb374-bfe4-454b-8ced-f99b26b3683f" />
 
 <img width="1919" height="1021" alt="Captura de pantalla 2025-08-25 115130" src="https://github.com/user-attachments/assets/d28882dc-66ed-41f2-8d63-ae4ba8819839" />
