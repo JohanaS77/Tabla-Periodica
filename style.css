@@ -1,20 +1,20 @@
 /* Tabla base */
 .table {
-  border-collapse: collapse;
-  width: 80%;              /* Que la tabla se ajuste al contenido */
-  margin: 40px auto;        /* Centrada en la pantalla */
-  table-layout: fixed;      /* 18 columnas con ancho uniforme */
-  background: linear-gradient(135deg, #f9f9f9, #e8f0ff);
-  border-radius: 10px;      /* Bordes redondeados */
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* Sombra elegante */
+  border-collapse: collapse;  
+  table-layout: fixed;        /* 18 columnas con ancho uniforme */
+  background: #fff;           /* 👈 Fondo blanco limpio */
+  border-radius: 10px;        /* Bordes redondeados */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15); 
   padding: 15px;
+  max-width: 1300px;          /* ancho máximo */
+  width: 85%;                 /* centrada con espacio a los lados */
 }
 
 /* Todas las celdas ocupan ~1/18 del ancho */
 .table td {
   width: 3.55%;
   height: 10px;       /* Ajusta la altura de cada celda */
-  padding: 10px;
+  padding: 12px;
   vertical-align: top;
   text-align: center;
 }
@@ -104,8 +104,16 @@
 } 
 
 .lantanoide {
-  background-color: #f98fe05f; /* amarillo dorado */
+  background-color: #f98fe0; /* amarillo dorado */
   border: 2px solid #ee1fc5; /* marrón */
+}
+
+.lantanoide:hover {
+  transform: scale(1.1) !important;
+  box-shadow: 0 0 12px rgba(0,0,0,0.4) !important;
+  z-index: 10 !important;
+  position: relative !important;
+  border: 3px solid #000 !important;
 }
 
 
@@ -118,8 +126,9 @@
 .element:hover {
   transform: scale(1.1);
   box-shadow: 0 0 12px rgba(0,0,0,0.4);
-  z-index: 2;
+  z-index: 20;
   position: relative;
+  border: 4px solid #000 !important;
 }
 
 td.empty {
@@ -144,8 +153,15 @@ td.empty {
   border-radius: 10px; /* Bordes redondeados */
   box-shadow: 0 4px 12px rgba(0,0,0,0.15); /* Sombra elegante */
   padding: 15px;
+  border-collapse: collapse;
+ overflow: visible;
 }
 
-
-
-
+/* Contenedor de la tabla */
+.tabla-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding: 30px 0;
+  background: linear-gradient(135deg, #f5baba, #a7bde6); /* 👈 Fondo aquí */
+}
