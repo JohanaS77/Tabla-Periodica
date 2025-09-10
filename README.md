@@ -108,7 +108,7 @@ Se aplica un efecto visual elegante cuando el usuario pasa el cursor sobre los e
 <a name="resultado-final"></a>
 ## <img src="readme-img/resultado.png" alt="Resultado" width="250">
 
-<img src="readme-img/resultado.png" alt="Captura de pantalla de la tabla periódica" width="800">
+<div align="center"><img src="readme-img/tabla-periodica.png" alt="Captura de pantalla de la tabla periódica" width="1000"></div>
 
 [⬆️ Volver al índice](#indice)
 
@@ -144,7 +144,7 @@ El proyecto no solo cumplió con los objetivos planteados, sino que también est
 Este proyecto fue desarrollado por Johana Jazmín Saavedra, estudiante de cuarto semestre en Técnica profesional en programación de aplicaciones de software de la Fundación Universitaria Compensar. Con una participación activa en la creación y desarrollo del proyecto.
 
 <div align="center">
-  <img src="readme-img/johana-sin-fondo.png" alt="Johana Saavedra" width="150">
+  <img src="readme-img/Johana-sin-fondo.png" alt="Johana Saavedra" width="150">
   <br>
   <strong>Johana Jazmín Saavedra</strong>
 </div>
